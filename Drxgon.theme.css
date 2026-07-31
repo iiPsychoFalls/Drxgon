@@ -9,7 +9,7 @@
     --hc: #ffabde;
     --RB: rgba(0,0,0,0.35); 
     --RBT: rgba(0,0,0,0.65); 
-    --BG: url("https://cdn.discordapp.com/attachments/788129802485891092/1532858160778580188/image.png?ex=6a6e60e8&is=6a6d0f68&hm=0c80b76118b0ce78f4e6abb34f75fd04d8e28d7cf794cd404ed02ca502cf8c0b&") !important;    /*Wallpaper*/   ");
+    --BG: url("https://cdn.discordapp.com/attachments/788129802485891092/1532864133148442654/63401158-A799-45AF-A25B-0498D69876C6.png?ex=6a6e6678&is=6a6d14f8&hm=cd38530507ffec83d0dd52f16c47354f33ca59675ee5c6803a3568646678e1b5&") !important;    /*Wallpaper*/   ") !important;    /*Wallpaper*/   ");
     --BR: 50%;
     --quaternary-color:var(--RB)!important;
     --blur: blur(0px);
