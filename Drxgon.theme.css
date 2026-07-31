@@ -9,7 +9,7 @@
     --hc: #ffabde;
     --RB: rgba(0,0,0,0.35); 
     --RBT: rgba(0,0,0,0.65); 
-    --BG: url("https://wallpapercave.com/wp/wp1938412.jpg");
+    --BG: url("https://cdn.discordapp.com/attachments/788129802485891092/1532858160778580188/image.png?ex=6a6e60e8&is=6a6d0f68&hm=0c80b76118b0ce78f4e6abb34f75fd04d8e28d7cf794cd404ed02ca502cf8c0b&") !important;    /*Wallpaper*/   ");
     --BR: 50%;
     --quaternary-color:var(--RB)!important;
     --blur: blur(0px);
